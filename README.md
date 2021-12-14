@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @giovanni-codes
+- 👋 Hi, I’m Giovanni 
 - 👀 I’m interested in game design
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently learning computation theory
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me through my email - giovannicelis@berkeley.edu
 
